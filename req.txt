@@ -1,0 +1,13 @@
+
+mkdir Folder
+cd Folder
+
+python3 -m venv venv
+source venv/bin/activate
+pip install telethon
+python3 main.py
+ 
+
+
+
+
